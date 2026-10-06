@@ -1,0 +1,11 @@
+{
+  "name": "sandfield-design",
+  "version": "0.1.0",
+  "description": "Product design philosophy and UX rules for AI prototyping, by the Sandfield (NZ) design team.",
+  "author": {
+    "name": "Sandfield Design Team",
+    "url": "https://www.sandfield.co.nz"
+  },
+  "homepage": "https://www.sandfield.co.nz",
+  "license": "MIT"
+}

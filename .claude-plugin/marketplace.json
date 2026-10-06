@@ -1,0 +1,17 @@
+{
+  "name": "sandfield",
+  "description": "Sandfield Design Team skills for AI prototyping.",
+  "owner": {
+    "name": "Sandfield Design Team",
+    "url": "https://www.sandfield.co.nz"
+  },
+  "plugins": [
+    {
+      "name": "sandfield-design",
+      "source": "./",
+      "description": "Product design philosophy and UX rules for AI prototyping, by the Sandfield (NZ) design team.",
+      "version": "0.1.0",
+      "homepage": "https://www.sandfield.co.nz"
+    }
+  ]
+}
